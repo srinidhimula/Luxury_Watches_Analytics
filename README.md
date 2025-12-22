@@ -24,8 +24,9 @@ dashboard development, and business intelligence capabilities.
 - Data quality assessment and monitoring
 
 ### Visualization & Dashboards (Tableau)
-1. **Executive Summary Dashboard**: Inventory KPIs for management
-
+1. **Executive Summary Dashboard:** Inventory KPIs for management
+2. **Data Features Completeness:** Highlights missing data for crucial features
+3. **InventoryHealth:** Highlights suspicious listings and variety of model listings
 
 ## Technologies Used
 - **Database**: PostgreSQL
